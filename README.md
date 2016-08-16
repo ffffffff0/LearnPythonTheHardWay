@@ -1,3 +1,2 @@
 # LearnPythonTheHardWay
-##learn python the hard way  code
-code
+LearnPythonTheHardWay练习的代码
